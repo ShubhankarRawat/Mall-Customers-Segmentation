@@ -1,4 +1,4 @@
-PROJECT - MACHINE LEARNING
+# PROJECT - MACHINE LEARNING
 
 In this project I have tried to demonstrate the use of Machine Learning in businesses for profit enhancement. 
 
